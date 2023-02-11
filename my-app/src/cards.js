@@ -1,4 +1,3 @@
-
 const data = [
     {
         course: "React From the Beginning",
@@ -22,3 +21,5 @@ const data = [
         image: "https://img-c.udemycdn.com/course/240x135/1328572_b05d_5.jpg"
     }
 ]
+
+export default data
